@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1783331383 source:e:\bell d. c++. a step-by-step guide for absolute beginners 2019\shoppingcart\main.cpp
+	<iostream>
+	<vector>
+	"datamodel.h"
+
+1783332125 e:\bell d. c++. a step-by-step guide for absolute beginners 2019\shoppingcart\datamodel.h
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<iomanip>
+
